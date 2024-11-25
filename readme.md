@@ -1,4 +1,4 @@
-# **GameCashier Contract**
+# **Web3 Game Cashier System**
 
 A comprehensive and secure token management system designed for Web3 gaming platforms. The **GameCashier** contract facilitates deposits, game balances, bet deductions, winnings distribution, and more, while ensuring robust security and flexibility.
 
